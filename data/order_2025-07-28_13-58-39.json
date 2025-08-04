@@ -1,0 +1,16 @@
+{
+    "mode": "Dine-In",
+    "payment": "Card",
+    "timestamp": "2025-07-28 13:58:39",
+    "total": 262.5,
+    "items": [
+        {
+            "item_id": 1,
+            "name": "Pizza",
+            "qty": 1,
+            "unit_price": 250.0,
+            "gst": 5.0,
+            "total": 262.5
+        }
+    ]
+}

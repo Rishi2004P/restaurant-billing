@@ -1,0 +1,101 @@
+item_id,item_name,category,price,gst,image_url
+1,Butter Chicken,Main Course (Non-Veg),380.0,5.0,https://sugarspunrun.com/wp-content/uploads/2025/04/Butter-chicken-1-of-1.jpg
+2,Chicken Tikka Masala,Main Course (Non-Veg),390.0,5.0,https://i0.wp.com/www.nourishdeliciously.com/wp-content/uploads/2022/11/DSC_9207.jpg
+3,Mutton Rogan Josh,Main Course (Non-Veg),450.0,5.0,https://static.toiimg.com/thumb/53192600.cms?width=1200&height=900
+4,Fish Curry (Goan Style),Main Course (Non-Veg),420.0,5.0,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ67cX4YTCOGfflIGONRI9ZqaR6WN2ViWY8pQ&s
+5,Prawn Malai Curry,Main Course (Non-Veg),480.0,5.0,https://static.toiimg.com/thumb/54439535.cms?imgsize=161358&width=800&height=800
+6,Chicken Korma,Main Course (Non-Veg),370.0,5.0,https://www.errenskitchen.com/wp-content/uploads/2024/04/Chicken-Korma-1-16.jpg
+7,Egg Curry,Main Course (Non-Veg),250.0,5.0,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkchsX_ZF0YqunzrBg8ccqL2ki_UefvLMpBw&s
+8,Paneer Butter Masala,Main Course (Veg),340.0,5.0,"https://cdn.zeptonow.com/production///tr:w-600,ar-100-100,pr-true,f-auto,q-80/web/recipes/paneer-butter-masala.png"
+9,Dal Makhani,Main Course (Veg),290.0,5.0,https://sinfullyspicy.com/wp-content/uploads/2015/03/4-1.jpg
+10,Palak Paneer,Main Course (Veg),310.0,5.0,https://seitansociety.com/wp-content/uploads/2021/10/PalakPaneer1280x903.jpg
+11,Malai Kofta,Main Course (Veg),330.0,5.0,https://i0.wp.com/myspicetrunk.com/wp-content/uploads/2021/01/20201219_1907582.jpg?resize=720%2C983&ssl=1
+12,Navratan Korma,Main Course (Veg),350.0,5.0,https://www.deliciousmagazine.co.uk/wp-content/uploads/2023/10/2023D159_DIWALI_KORMA__-768x960.jpg
+13,Aloo Gobi,Main Course (Veg),260.0,5.0,https://static01.nyt.com/images/2023/12/21/multimedia/ND-Aloo-Gobi-gkwc/ND-Aloo-Gobi-gkwc-mediumSquareAt3X.jpg
+14,Bhindi Masala,Main Course (Veg),270.0,5.0,https://myfoodstory.com/wp-content/uploads/2025/03/Bhindi-Masala-2.jpg
+15,Mushroom Do Pyaza,Main Course (Veg),300.0,5.0,https://coox-new.s3.ap-south-1.amazonaws.com/images/d/dishes/Mushroom%20do%20Pyaza-1-dish-img.jpeg?v=1734019293934
+16,Chana Masala,Main Course (Veg),240.0,5.0,"https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chana-masala-fb809bc.jpg?quality=90&resize=440,400"
+17,Kadhai Paneer,Main Course (Veg),320.0,5.0,https://www.cubesnjuliennes.com/wp-content/uploads/2020/03/Best-Kadai-Paneer-Recipe.jpg
+18,Mix Vegetable,Main Course (Veg),280.0,5.0,https://placehold.co/100x100/E0E0E0/333333?text=Mix+Vegetable
+19,Dal Tadka,Main Course (Veg),220.0,5.0,https://www.indianhealthyrecipes.com/wp-content/uploads/2021/04/dal-tadka-recipe-500x500.jpg
+20,Rajma Chawal (Combo),Main Course (Veg),200.0,5.0,https://www.secondrecipe.com/wp-content/uploads/2017/08/rajma-chawal-1.jpg
+21,Hyderabadi Chicken Biryani,Rice Dish (Non-Veg),400.0,5.0,https://www.licious.in/blog/wp-content/uploads/2020/12/Hyderabadi-chicken-Biryani.jpg
+22,Mutton Biryani,Rice Dish (Non-Veg),480.0,5.0,https://www.cubesnjuliennes.com/wp-content/uploads/2021/03/Best-Mutton-Biryani-Recipe.jpg
+23,Egg Biryani,Rice Dish (Non-Veg),320.0,5.0,https://spicecravings.com/wp-content/uploads/2020/10/Egg-Biryani-Featured-1.jpg
+24,Vegetable Biryani,Rice Dish (Veg),300.0,5.0,https://www.sharmispassions.com/wp-content/uploads/2022/03/VegBiryani4.jpg
+25,Paneer Biryani,Rice Dish (Veg),330.0,5.0,https://happietrio.com/wp-content/uploads/2019/04/PaneerBiryani1.jpg
+26,Kashmiri Pulao,Rice Dish (Veg),280.0,5.0,https://www.vegrecipesofindia.com/wp-content/uploads/2021/06/kashmiri-pulao-3.jpg
+27,Peas Pulao,Rice Dish (Veg),160.0,5.0,https://www.indianveggiedelight.com/wp-content/uploads/2017/10/instant-pot-green-peas-pulao-featured.jpg
+28,Jeera Rice,Rice Dish (Veg),150.0,5.0,https://mariasmenu.com/wp-content/uploads/Jeera-Rice-1.png
+29,Plain Rice,Rice Dish (Veg),100.0,5.0,https://whatscooking.org.in/admin/uploads/product/6016Plain%20Rice%20(JPEG)%20(1).jpg
+30,Lemon Rice,Rice Dish (Veg),180.0,5.0,https://www.flavourstreat.com/wp-content/uploads/2020/12/turmeric-lemon-rice-recipe-02.jpg
+31,Naan (Plain),Bread,50.0,0.0,https://static.toiimg.com/thumb/53338316.cms?width=1200&height=900
+32,Butter Naan,Bread,55.0,0.0,https://foodess.com/wp-content/uploads/2023/02/Butter-Naan-2.jpg
+33,Garlic Naan,Bread,60.0,0.0,https://zestfulkitchen.com/wp-content/uploads/2020/01/garlic-naan-hero_for-web-4-683x1024.jpg
+34,Cheese Naan,Bread,80.0,0.0,https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqEhg-noHtRDYRrgh72EezX2Zv0mMwREkPY34GcFBkjnUUceMcLxgaiblNoElRvmk2EbNW_19C8P1zKR74lIKsZHAwMJeZvS50e_oaDZ8j-1NPbhYjcpxYQWq1uOSu0fOkVbu3rL__MVxt/s1600/Cheese+Naan3.jpg
+35,Tandoori Roti,Bread,30.0,0.0,https://maharajaroyaldining.com/wp-content/uploads/2024/05/Tandoori-Roti-3.webp
+36,Butter Roti,Bread,35.0,0.0,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGHVVbp6cPUqd14HEQ5VkuFYK0he5gPtc48w&s
+37,Laccha Paratha,Bread,70.0,0.0,https://www.whiskaffair.com/wp-content/uploads/2020/06/Lachha-Paratha-2-3-500x500.jpg
+38,Aloo Paratha,Bread,90.0,5.0,https://cookingfromheart.com/wp-content/uploads/2020/09/Aloo-Paratha-4.jpg
+39,Pudina Paratha,Bread,75.0,0.0,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFCisNxM6q8G1E7M3blP1ypollZURVhvQAsA&s
+40,Missi Roti,Bread,45.0,0.0,https://img-global.cpcdn.com/steps/0dcaeb49b7fc029a/400x400cq80/photo.jpg
+41,Masala Dosa,South Indian,130.0,5.0,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSj4XhJE3LJLqeFVQ65SqvLBp43p4BCRSz1w&s
+42,Plain Dosa,South Indian,100.0,5.0,https://static.toiimg.com/thumb/53239433.cms?imgsize=247810&width=800&height=800
+43,Rava Dosa,South Indian,140.0,5.0,https://moonrice.net/wp-content/uploads/2021/05/IMG_0938-2.jpg
+44,Paneer Dosa,South Indian,160.0,5.0,https://www.cookclickndevour.com/wp-content/uploads/2019/01/paneer-masala-dosa-recipe-1.jpg
+45,Mysore Masala Dosa,South Indian,150.0,5.0,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9tXNH_xCEYOU9wjkNFLKfCHUf1mvc8QmR4g&s
+46,Idli Sambar (2 pcs),South Indian,100.0,5.0,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm7TA6mFE2Qs_KuFNQ_jrfTXqTGfQxWnoZyg&s
+47,Medu Vada (2 pcs),South Indian,90.0,5.0,https://vps029.manageserver.in/test/wp-content/uploads/2023/12/u113o4r_medu-vada_625x300_06_September_23.jpg
+48,Uttapam (Onion),South Indian,120.0,5.0,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR25bExlo45LjjwUU9y9e4y82HGJyFbOGd8A&s
+49,Tomato Uttapam,South Indian,125.0,5.0,https://www.tarladalal.com/media/onion-tomato-uttapam-recipe.webp
+50,Curd Rice,South Indian,140.0,5.0,https://palatesdesire.com/wp-content/uploads/2022/04/curd-rice-recipe-card@palates-desire.jpg
+51,Pongal,South Indian,110.0,5.0,https://www.indianveggiedelight.com/wp-content/uploads/2021/11/ven-pongal-featured.jpg
+52,Vada Pav,Street Food,65.0,5.0,https://www.cookwithmanali.com/wp-content/uploads/2018/04/Vada-Pav-500x500.jpg
+53,Pani Puri (6 pcs),Street Food,80.0,5.0,https://img.clevup.in/368842/SKU-0058_0-1735613906627.jpg?width=600&format=webp
+54,Samosa (2 pcs),Street Food,75.0,5.0,"https://cdn.zeptonow.com/production/tr:w-640,ar-2400-2400,pr-true,f-auto,q-80/cms/product_variant/9b412081-6d87-42ed-b484-12ec32afe634.jpeg"
+55,Pav Bhaji,Street Food,160.0,5.0,https://www.cubesnjuliennes.com/wp-content/uploads/2020/07/Instant-Pot-Mumbai-Pav-Bhaji-Recipe.jpg
+56,Dabeli,Street Food,70.0,5.0,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8ebpMEvZqBi4tovpv4-gWqW9M0j7VgjZIgg&s
+57,Bhel Puri,Street Food,90.0,5.0,https://vegecravings.com/wp-content/uploads/2018/06/Bhel-Puri-Recipe-Step-By-Step-Instructions-500x500.jpg
+58,Sev Puri,Street Food,95.0,5.0,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx6_4CtgEtJSoTBj3Ly2Zf6YwulhOOo4fb1w&s
+59,Aloo Tikki,Street Food,85.0,5.0,https://sinfullyspicy.com/wp-content/uploads/2023/03/1-1.jpg
+60,Kachori,Street Food,70.0,5.0,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqO0ieyO6huc4rGemgOq5lK5L-66kFU7BwPA&s
+61,Pakora Platter,Street Food,150.0,5.0,https://d2e1hu1ktur9ur.cloudfront.net/wp-content/uploads/2022/07/Tea-Time-Pakora-Platter-_Fe.jpg
+62,Chicken Tikka (6 pcs),Tandoor & Grills,320.0,5.0,https://www.awesomecuisine.com/wp-content/uploads/2014/03/chicken-tikka.jpg
+63,Paneer Tikka (6 pcs),Tandoor & Grills,290.0,5.0,https://rotibotionline.com/wp-content/uploads/2024/03/paneer-tikka-scaled.jpg
+64,Tandoori Chicken (Half),Tandoor & Grills,350.0,5.0,https://kitchenlaughter.com/wp-content/uploads/2022/09/grilled-half-chicken-12.jpg
+65,"Seekh Kebab (Chicken, 4 pcs)",Tandoor & Grills,300.0,5.0,https://derafarms.com/cdn/shop/files/deraproducts-2024-06-12T110804.251.png?v=1719207183
+66,"Malai Boti (Chicken, 6 pcs)",Tandoor & Grills,330.0,5.0,https://www.chilitochoc.com/wp-content/uploads/2022/11/one-malai-boti-skewer.jpg
+67,Mushroom Tikka (6 pcs),Tandoor & Grills,280.0,5.0,https://www.vegrecipesofindia.com/wp-content/uploads/2013/08/mushroom-tikka-recipe-11.jpg
+68,Tomato Soup,Soup,120.0,5.0,https://www.onceuponachef.com/images/2021/02/Tomato-Soup-3-1200x1800.jpg
+69,Sweet Corn Soup (Veg),Soup,130.0,5.0,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC2FeSWsl8T37Q9QVI0Q8m4AnB7ox6RwnQwg&s
+70,Hot & Sour Soup (Chicken),Soup,150.0,5.0,https://www.cookingcarnival.com/wp-content/uploads/2023/09/Hot-and-sour-soup-4.jpg
+71,Green Salad,Accompaniment,80.0,5.0,https://leelalicious.com/wp-content/uploads/2018/08/Corn-Tomato-Avocado-Salad-Recipe.jpg
+72,Cucumber Raita,Accompaniment,90.0,5.0,https://spicedspoon.com/wp-content/uploads/2024/09/cucumber-raita.webp
+73,Boondi Raita,Accompaniment,95.0,5.0,https://www.whiskaffair.com/wp-content/uploads/2020/12/Boondi-Raita-2-3.jpg
+74,Papad (Roasted),Accompaniment,30.0,5.0,https://gurukripahotel.com/wp-content/uploads/2025/04/Roasted-Papad.png
+75,Gulab Jamun (2 pcs),Dessert,110.0,5.0,https://lalaji.com.au/wp-content/uploads/2025/01/Gulab-Jamun.webp
+76,Gajar Halwa,Dessert,130.0,5.0,https://www.whiskaffair.com/wp-content/uploads/2019/05/Gajar-Ka-Halwa-2-3.jpg
+77,Kulfi (Pista),Dessert,90.0,5.0,https://static.toiimg.com/thumb/84786580.cms?width=1200&height=900
+78,Rasgulla (2 pcs),Dessert,100.0,5.0,https://www.mygovindas.com/uploads/food_menu/rasgula-485b24065d63ab10b4745be1af423f6e.jpg
+79,Jalebi (with Rabri),Dessert,140.0,5.0,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS78ovpXDHxtGEoNEqxizuENorFcIY0KH-x5Q&s
+80,Mango Lassi,Beverage,100.0,5.0,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlSlQ45vH_JReiUTNXyYvVMwW6Lb5G05fLRA&s
+81,Sweet Lassi,Beverage,90.0,5.0,https://www.sharmispassions.com/wp-content/uploads/2023/08/sweet-lassi3.jpg
+82,Salted Lassi,Beverage,90.0,5.0,https://themagicsaucepan.com/wp-content/uploads/2018/05/20180511-salt-lassi-0061-500x500.jpg
+83,Masala Chai,Beverage,60.0,5.0,https://masalaandchai.com/wp-content/uploads/2021/07/Masala-Chai.jpg
+84,Filter Coffee,Beverage,70.0,5.0,https://img.onmanorama.com/content/dam/mm/en/food/features/images/2024/3/9/filter-coffee-1.jpg?w=1120&h=583
+85,Fresh Lime Soda (Sweet),Beverage,80.0,5.0,https://www.seriouseats.com/thmb/Lkr5DnY7jNP2aP5DS3d5qE0PEkQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2020__08__20200816-nimbu-soda-vicky-wasik-1-28079d5d45ee4e47a37a969d1e4834a0.jpg
+86,Fresh Lime Soda (Salted),Beverage,80.0,5.0,https://brainfoodstudio.com/wp-content/uploads/2015/08/sweety-salty-fresh-lime-soda-4.jpg
+87,Jaljeera,Beverage,70.0,5.0,https://www.whiskaffair.com/wp-content/uploads/2019/03/Jaljeera-2-1.jpg
+88,Bottled Water (1L),Beverage,20.0,0.0,https://images-cdn.ubuy.co.in/64d6094fb48aa21d8f6389e3-aquafina-purified-bottled-drinking.jpg
+89,Soft Drink (Cola),Beverage,50.0,5.0,https://media.istockphoto.com/id/1393991948/photo/cola-with-crushed-ice-in-glass-and-there-is-water-droplets-around-cool-black-fresh-drink.jpg?s=612x612&w=0&k=20&c=St-ONdM6Tpg_DPFzZzq-OI-dsIG2Hv30KVdYf83ARs8=
+90,Buttermilk (Chaas),Beverage,70.0,5.0,https://www.awesomecuisine.com/wp-content/uploads/2008/11/masala-buttermilk.jpg
+91,Veg Thali (Standard),Combo,280.0,5.0,https://bsmedia.business-standard.com/_media/bs/img/article/2023-10/10/full/20231010102653.jpg
+92,Veg Thali (Deluxe),Combo,350.0,5.0,https://www.theskburger.com/wp-content/uploads/2023/02/e1dad5315972c8a9db86fb01d69c7ecb.jpg
+93,Non-Veg Thali (Chicken),Combo,380.0,5.0,https://i0.wp.com/vps029.manageserver.in/menu/wp-content/uploads/2024/01/indian-gavkari-chicken-thali-food-600nw-2017167788.webp?fit=600%2C450&ssl=1
+94,Non-Veg Thali (Mutton),Combo,450.0,5.0,https://i.ytimg.com/vi/W_cnf3eMDnc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAqBA6x2NhK6--UDYSIFdeqThUJQQ
+95,"Dosa Combo (Dosa, Idli, Vada)",Combo,200.0,5.0,https://t4.ftcdn.net/jpg/02/17/39/75/360_F_217397519_MqLzfynUsUKGvZj1AB3iPREmr11sYRhk.jpg
+96,"Biryani Combo (Biryani, Raita, Salad)",Combo,420.0,5.0,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGKeu_tWel5wWuD3qXzc8dk_Z1P6qM2b18QA&s
+97,Poha,Breakfast/Snacks,80.0,5.0,https://media.istockphoto.com/id/670526200/photo/poha-indian-snacks.jpg?s=612x612&w=0&k=20&c=iEVKSfRzmcHxPIz1fKQBNzmcRpLbseh5vjXaRVckRZA=
+98,Upma,Breakfast/Snacks,85.0,5.0,https://myfoodstory.com/wp-content/uploads/2022/11/Vegetable-Upma-4.jpg
+99,Misal Pav,Breakfast/Snacks,120.0,5.0,https://www.foodie-trail.com/wp-content/uploads/2021/12/PHOTO-2021-11-01-08-19-11_1-rotated.jpg
+100,Kanda Bhaji,Breakfast/Snacks,70.0,5.0,https://images.getrecipekit.com/20221104111936-dussehrafestivefoodskandabhajiimage5.jpg?aspect_ratio=1:1&quality=90conda activate restaurantz

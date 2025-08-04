@@ -1,0 +1,32 @@
+{
+    "mode": "Dine-In",
+    "payment": "UPI",
+    "timestamp": "2025-07-28 13:10:10",
+    "total": 568.5,
+    "items": [
+        {
+            "item_id": 1,
+            "name": "Pizza",
+            "qty": 1,
+            "unit_price": 250.0,
+            "gst": 5.0,
+            "total": 262.5
+        },
+        {
+            "item_id": 2,
+            "name": "Burger",
+            "qty": 1,
+            "unit_price": 120.0,
+            "gst": 5.0,
+            "total": 126.0
+        },
+        {
+            "item_id": 3,
+            "name": "Coke",
+            "qty": 3,
+            "unit_price": 60.0,
+            "gst": 0.0,
+            "total": 180.0
+        }
+    ]
+}

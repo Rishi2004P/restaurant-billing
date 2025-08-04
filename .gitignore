@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Database files
+db/
+*.db
+
+# Streamlit internal state
+.streamlit/
+
+# OS files
+.DS_Store
+
